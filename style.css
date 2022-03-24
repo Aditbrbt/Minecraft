@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: white;
+}
+.div{
+    cursor: pointer;
+}
+.link{
+    color:#0051ff ;
+    text-decoration: underline;
+}
